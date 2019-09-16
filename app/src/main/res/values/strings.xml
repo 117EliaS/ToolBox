@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Toolbox</string>
+    <string name="appTitle">Welcome To The ToolBox!</string>
+    <string name="spinnerTextTip">Change Background Color</string>
+    <string name="spinnerButton">Apply</string>
+    <string name="imageCaption">Here is a self portrait of you if you were an old man</string>
+    <string name="quoteButton">Click for inspirational words</string>
+    <string name="checkboxText">Rainbowify Title</string>
+    <string name="radioText">Change the Picture</string>
+    <string name="radioApple">Apple</string>
+    <string name="radioBanana">Banana</string>
+    <string name="switchSecret">Secret </string>
+    <string name="secret"><font color="#ff0000">I</font><font color="#ff2000">t</font><font color="#ff4000">s</font><font color="#ff5f00"> </font><font color="#ff7f00">a</font><font color="#ffaa00"> </font><font color="#ffd400">C</font><font color="#ffff00">o</font><font color="#bfff00">s</font><font color="#80ff00">t</font><font color="#40ff00">a</font><font color="#00ff00">n</font><font color="#00ff40">z</font><font color="#00ff80">a</font><font color="#00ffbf"> </font><font color="#00ffff">B</font><font color="#00aaff">o</font><font color="#0055ff">n</font><font color="#0000ff">a</font><font color="#2300ff">n</font><font color="#4600ff">z</font><font color="#6800ff">a</font><font color="#8b00ff">!</font></string>
+
+</resources>

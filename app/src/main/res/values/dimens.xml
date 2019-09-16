@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="title">20sp</dimen>
+    <dimen name="tipSize">15sp</dimen>
+
+    <dimen name="buttonCorners">30dp</dimen>
+
+    <dimen name="switchPaddingText">8dp</dimen>
+    <dimen name="switchPadding">-8dp</dimen>
+
+    <dimen name="imageInFront">2dp</dimen>
+
+</resources>
